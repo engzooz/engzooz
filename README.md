@@ -86,11 +86,8 @@
 </p>
 
 ---
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/engzooz/engzooz/output/github-contribution-grid-snake.svg"/>
-</p>
 
 
 ---
