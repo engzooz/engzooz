@@ -66,11 +66,10 @@
 
 ## 📂 Featured Projects
 - **Epic To-Do Master** → Task manager with categories, priorities, stats, and stunning UI.  
-- **Dental Clinic Pro** → Clinic management system with patient tracking and scheduling.  
 - **ICPC Problem Sets** → Algorithmic challenges for competitive programming teams.  
 
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="150" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 ---
 
