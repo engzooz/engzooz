@@ -14,13 +14,10 @@
 ---
 
 ## 👨‍💻 About Me
-<details>
   <br>
   🚀 Front-End Developer & Competitive Programmer  
   🎯 Mentor & Problem Setter at ICPC MNU Community  
   📚 Passionate about clean code, elegant solutions, and inspiring others  
-</details>
-
 ---
 
 ## 🛠️ Skills
@@ -38,7 +35,6 @@
 ---
 
 ## 📜 Certifications
-<details>
   <ul>
     <li>🔐 Introduction to Cybersecurity – Cisco</li>
     <li>🎓 Computer Science 101 – Stanford Online</li>
@@ -48,17 +44,14 @@
     <li>🐍 Python Programming – ITI</li>
     <li>🧬 Introduction to Computer Science – HarvardX</li>
   </ul>
-</details>
 
 ---
 
 ## 📂 Featured Projects
-<details>
   <ul>
     <li><b>Epic To-Do Master</b> → Task manager with categories, priorities, stats, and stunning UI.</li>
     <li><b>ICPC Problem Sets</b> → Algorithmic challenges for competitive programming teams.</li>
   </ul>
-</details>
 
 ---
 
