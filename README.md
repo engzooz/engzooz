@@ -69,14 +69,10 @@
 - **ICPC Problem Sets** → Algorithmic challenges for competitive programming teams.  
 
 
-<img width="150" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 ---
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ziad&theme=algolia&margin-w=10&margin-h=10&row=1"/>
-</p>
 
 ---
 
