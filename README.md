@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img width="350" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+  <img width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 </p>
 
 ---
@@ -28,34 +28,38 @@
 ---
 
 ## 🛠️ Skills
+### 🔹 Programming Languages
 <p align="center">
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+</p>
 
-<!-- Programming Languages -->
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML%20%26%20CSS-orange?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+### 🔹 Systems & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Windows-grey?style=for-the-badge&logo=windows"/>
+  <img src="https://img.shields.io/badge/Networking-008080?style=for-the-badge&logo=cisco"/>
+  <img src="https://img.shields.io/badge/Information%20Systems-006699?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
 
-<!-- Systems & Tools -->
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Windows-grey?style=for-the-badge&logo=windows"/>
-<img src="https://img.shields.io/badge/Networking-008080?style=for-the-badge&logo=cisco"/>
-<img src="https://img.shields.io/badge/Information%20Systems-006699?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github"/>
+### 🔹 Computer Science
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Algorithms-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-success?style=for-the-badge"/>
+</p>
 
-<!-- Computer Science -->
-<img src="https://img.shields.io/badge/Data%20Structures-ff69b4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Coding%20Experience-brown?style=for-the-badge"/>
-
-<!-- Soft Skills -->
-<img src="https://img.shields.io/badge/Coaching%20%26%20Mentoring-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Communication-lightblue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/English-darkblue?style=for-the-badge"/>
+### 🔹 Soft Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Coaching%20%26%20Mentoring-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Communication-lightblue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/English-darkblue?style=for-the-badge"/>
 </p>
 
 ---
