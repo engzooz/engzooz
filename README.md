@@ -11,7 +11,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username= Ziad&style=for-the-badge&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ziad&style=for-the-badge&color=blue" alt="Profile views"/>
   <img src="https://img.shields.io/badge/ICPC-Mentor-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cybersecurity-Cisco-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Problem%20Solving-HackerRank-success?style=for-the-badge"/>
