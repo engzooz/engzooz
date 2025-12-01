@@ -3,13 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&center=true&vCenter=true&width=700&lines=Ziad+Ayman++Competitive+Programmer+%26+Mentor+at+ICPC+MNU+Community" alt="Typing SVG"/>
 </p>
 <!-- Animated Bio -->
-<p align="left">
-  <img src="https://img.shields.io/badge/👨‍💻-Front--End--Developer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡-Competitive--Programmer-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎯-ICPC--Mentor-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📚-Certified--in--Cybersecurity-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔥-Driven--by--Growth-purple?style=for-the-badge"/>
-</p>
+<h1 align="center" style="color:#00FFFF;">✨ Ziad Ayman ✨</h1>
+<p align="center" style="color:#FF00FF;">Front-End Developer & Competitive Programmer</p>
+<p align="center" style="color:#FFD700;">Mentor at ICPC Minia National University</p>
+<p align="center" style="color:#00FF00;">Cybersecurity & Computer Science Certified</p>
+<p align="center" style="color:#FF4500;">Passionate about growth & learning 🔥</p>
 <p align="right">
   <img width="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 </p>
