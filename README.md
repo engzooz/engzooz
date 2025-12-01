@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&center=true&vCenter=true&width=700&lines=Ziad+Ayman++Competitive+Programmer+%26+Mentor+at+ICPC+MNU+Community" alt="Typing SVG"/>
 </p>
 <!-- Animated Bio -->
+<p align="right">
+  <img width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+</p>
 <p align="left">  👨‍💻 As a CS student in Minia University.</p>
 <p align="left">⚡ Skilled in C++ and C#, passionate about problem solving</p>
 <p align="left"> 💬 Ask me about my experience with c++ , Problem Solving , html, css , JavaScript.</p>
