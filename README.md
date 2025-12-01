@@ -5,7 +5,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&width=500&lines=Ziad+Ayman+-+Competitive+Programmer+%26+Mentor+at+ICPC+MNU+Community" alt="Typing SVG"/>
     </td>
     <td>
-      <img width="120" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF"/>
+      <img width="220" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
