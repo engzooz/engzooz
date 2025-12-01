@@ -23,11 +23,31 @@
 ---
 
 ## 🛠️ Skills
-**Languages:** C++, C#, Python, Java, HTML, CSS, JavaScript  
-**Systems & Tools:** Linux, Windows, Networking, Git & GitHub  
-**CS Fundamentals:** Data Structures, Algorithms, OOP, Problem Solving  
-**Soft Skills:** Mentoring, Communication, English  
 
+**Languages**  
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&style=flat) 
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&style=flat) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat) 
+![Java](https://img.shields.io/badge/Java-007396?logo=java&style=flat) 
+![HTML&CSS](https://img.shields.io/badge/HTML%20%26%20CSS-orange?logo=html5&style=flat) 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=flat)  
+
+**Systems & Tools**  
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux&style=flat) 
+![Windows](https://img.shields.io/badge/Windows-grey?logo=windows&style=flat) 
+![Networking](https://img.shields.io/badge/Networking-008080?logo=cisco&style=flat) 
+![GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-181717?logo=github&style=flat)  
+
+**CS Fundamentals**  
+![Data Structures](https://img.shields.io/badge/Data%20Structures-ff69b4?style=flat) 
+![Algorithms](https://img.shields.io/badge/Algorithms-green?style=flat) 
+![OOP](https://img.shields.io/badge/OOP-purple?style=flat) 
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-success?style=flat)  
+
+**Soft Skills**  
+![Mentoring](https://img.shields.io/badge/Mentoring-orange?style=flat) 
+![Communication](https://img.shields.io/badge/Communication-lightblue?style=flat) 
+![English](https://img.shields.io/badge/English-darkblue?style=flat)  
 ---
 
 ## 📜 Certifications
