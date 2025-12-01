@@ -8,13 +8,13 @@
 </p>
 <p align="left">  👨‍💻 As a CS student in Minia University.</p>
 <p align="left">⚡ Skilled in C++ and C#, passionate about problem solving</p>
+<p align="right">
+  <img width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+</p>
 <p align="left"> 💬 Ask me about my experience with c++ , Problem Solving , html, css , JavaScript.</p>
 <p align="left"> 📚 Certified in Cybersecurity, Computer Science, and Problem Solving</p>
 <p align="left"> 🔥 Driven by growth, consistency, and inspiring others through learning</p>
 
-<p align="right">
-  <img width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-</p>
 
 ---
 
