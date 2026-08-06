@@ -1,78 +1,105 @@
-<!-- Header with logo beside text -->
-<table>
-  <tr>
-    <td>
-      <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ziad%20Ayman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
-        <img src="https://tryhackme-badges.s3.amazonaws.com/ENGZOOZ.png" />
-</p>
-    </td>
-    <td>
-      <img width="220" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+  <!-- هيدر متحرك ساخن بنمط السايبر والأنمي -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7000ff,100:ff0055&height=220&section=header&text=ZIAD%20AYMAN&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
 
-## 🚀 Highlights
-- 👨‍💻 Front-End Developer & Competitive Programmer  
-- 🎯 ICPC Mentor & Problem Setter  
-- 📚 Certified in Cybersecurity & Computer Science  
-- 🔥 Passionate about clean code & growth  
+  <br />
 
----
+  <!-- أنيميشن كتابة التخصصات -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Junior+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Competitive+Programmer+%F0%9F%A7%A9;ShadowOfUtchiha+Persona+%E2%9A%A1;Top+3%25+Global+on+TryHackMe+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 
-## 🛠️ Skills
+  <br /><br />
 
-**Languages**  
-![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&style=flat) 
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&style=flat) 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat) 
-![Java](https://img.shields.io/badge/Java-007396?logo=java&style=flat) 
-![HTML&CSS](https://img.shields.io/badge/HTML%20%26%20CSS-orange?logo=html5&style=flat) 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=flat)  
+  <!-- بادجات التواصل والملف الشخصي -->
+  <a href="https://linkedin.com/in/engzooz">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ziad.ayman.shokry@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/engzooz">
+    <img src="https://img.shields.io/badge/TryHackMe-Top%205%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  </a>
 
-**Systems & Tools**  
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux&style=flat) 
-![Windows](https://img.shields.io/badge/Windows-grey?logo=windows&style=flat) 
-![Networking](https://img.shields.io/badge/Networking-008080?logo=cisco&style=flat) 
-![GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-181717?logo=github&style=flat)  
+</div>
 
-**CS Fundamentals**  
-![Data Structures](https://img.shields.io/badge/Data%20Structures-ff69b4?style=flat) 
-![Algorithms](https://img.shields.io/badge/Algorithms-green?style=flat) 
-![OOP](https://img.shields.io/badge/OOP-purple?style=flat) 
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-success?style=flat)  
+<br />
 
-**Soft Skills**  
-![Mentoring](https://img.shields.io/badge/Mentoring-orange?style=flat) 
-![Communication](https://img.shields.io/badge/Communication-lightblue?style=flat) 
-![English](https://img.shields.io/badge/English-darkblue?style=flat)  
----
+<!-- فاصل متدفق أنيميشن -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 📜 Certifications
-- 🔐 Introduction to Cybersecurity – Cisco  
-- 🎓 Computer Science 101 – Stanford Online  
-- 🧠 Problem Solving – HackerRank  
-- 💻 C# (Basic) – HackerRank  
-- 🌐 Intro to Programming Using HTML & CSS – ITI  
-- 🐍 Python Programming – ITI  
-- 🧬 Introduction to Computer Science – HarvardX  
+## ⚡ About Me
 
----
-
-## 📂 Featured Projects
-- **Epic To-Do Master** → Task manager with categories, priorities, stats, and stunning UI.  
-- **ICPC Problem Sets** → Algorithmic challenges for competitive programming teams.  
-
----
-
-## 🔗 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/engzooz"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
-  <a href="https://codeforces.com/profile/za0271497"><img src="https://img.shields.io/badge/Codeforces-orange?logo=codeforces&style=for-the-badge"/></a>
-  <a href="https://facebook.com/ziad2005ayman"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&style=for-the-badge"/></a>
-  <a href="https://instagram.com/ziad_ay_mohamed"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge"/></a>
-  <a href="https://t.me/zz0_0zz0_0"><img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&style=for-the-badge"/></a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnE1aWttMWwzbDJxeGcxOWI5cTdrZGFwbTRzOXJkMGV2bXllMzJvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvYYffpxm/giphy.gif" width="45%" align="right" style="border-radius:10px; margin-left: 15px;" />
 </p>
+
+- 🎓 **Computer Science Student** at Minya National University[cite: 1].
+- 🛡️ **Junior SOC Analyst:** Passionate about Defensive Security, Network Packet Analysis (Wireshark), Threat Detection, and Alert Triage[cite: 1].
+- 🧩 **Competitive Programmer:** Solved **2,300+** algorithmic challenges (Codeforces & HackerRank) with custom C++ templates[cite: 1].
+- 🎯 **Community Leader:** Technical Mentor & Problem Setter at **ICPC Minya National University Community**[cite: 1].
+- 🥇 **TryHackMe Top 5%** with 110+ rooms completed and 15 deployment badges[cite: 1].
+- 💻 **Environments:** Deep Linux user (Ubuntu Essentials & Kali Linux) & Network Sandbox Builder[cite: 1].
+
+<br clear="both"/>
+
+---
+
+## 🛠️ Security Arsenal & Tech Stack
+
+<div align="center">
+
+  ### 🛡️ Defensive & Cyber Tools
+  <p>
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cisco_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux_Sys-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </p>
+
+  ### 💻 Languages & Development
+  <p>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
+
+</div>
+
+---
+
+## 📈 GitHub Cyber Activity & Metrics
+
+<div align="center">
+
+  <!-- إحصائيات بستايل السايبر والراديو -->
+  <img src="https://github-readme-stats.vercel.app/api?username=engzooz&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engzooz&theme=radium&hide_border=true" width="48%" />
+
+  <br /><br />
+
+  <!-- اللغات الأكثر استخداماً -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engzooz&layout=compact&theme=radium&hide_border=true&langs_count=6" width="60%" />
+
+</div>
+
+---
+
+<div align="center">
+
+  <!-- عداد الزوار أنيميشن بستايل neon -->
+  <img src="https://komarev.com/ghpvc/?username=engzooz&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" />
+
+  <br /><br />
+
+  <!-- أنيميشن ختامي -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7000ff,100:00f0ff&height=60&section=footer&text=ShadowOfUtchiha%20%E2%80%A2%20Defending%20the%20Digital%20Realm&fontSize=18&fontColor=ffffff" width="100%" />
+
+</div>
