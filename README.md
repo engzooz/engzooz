@@ -1,104 +1,146 @@
 <div align="center">
 
-  <!-- هيدر متحرك ساخن بنمط السايبر والأنمي -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7000ff,100:ff0055&height=220&section=header&text=ZIAD%20AYMAN&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
+  <!-- Header Section: Banner & Dynamic TryHackMe Card Side-by-Side -->
+  <table border="0" style="border: none;">
+    <tr style="border: none;">
+      <td align="center" valign="middle" width="58%" style="border: none;">
+        <img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:000000,100:a371f7&text=Ziad%20Ayman&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cyber%20Security%20%7C%20Junior%20SOC%20Analyst&descSize=20&descColor=FFFFFF&descAlignY=65" width="100%"/>
+      </td>
+      <td align="center" valign="middle" width="42%" style="border: none;">
+        <!-- Dynamic THM Card (Cache-Bypassed) -->
+        <a href="https://tryhackme.com/p/ENGZOOZ" target="_blank">
+          <img src="https://tryhackme-badges.s3.amazonaws.com/ENGZOOZ.png?v=1" alt="TryHackMe ENGZOOZ" width="340" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br />
 
-  <!-- أنيميشن كتابة التخصصات -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Junior+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Competitive+Programmer+%F0%9F%A7%A9;ShadowOfUtchiha+Persona+%E2%9A%A1;Top+5%25+Global+on+TryHackMe+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-
-  <br /><br />
-
-  <!-- بادجات التواصل والملف الشخصي -->
-  <a href="https://linkedin.com/in/engzooz">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ziad.ayman.shokry@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com/p/engzooz">
-    <img src="https://img.shields.io/badge/TryHackMe-Top%205%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
-  </a>
+  <!-- Live Badges & Profile Views -->
+  <p>
+    <a href="https://komarev.com/ghpvc/?username=engzooz">
+      <img src="https://komarev.com/ghpvc/?username=engzooz&label=Profile%20views&color=00FFFF&style=flat-square" alt="engzooz's profile views" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://tryhackme.com/p/ENGZOOZ">
+      <img src="https://img.shields.io/badge/TryHackMe-Top%203%25-red?style=flat-square&logo=tryhackme&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rank-%2364036-purple?style=flat-square&logo=tryhackme&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rooms-142-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
+      <img src="https://img.shields.io/badge/Badges-23-00f0ff?style=flat-square&logo=tryhackme&logoColor=black" />
+      <img src="https://img.shields.io/badge/Streak-13%20Days-orange?style=flat-square&logo=tryhackme&logoColor=white" />
+    </a>
+  </p>
 
 </div>
 
-<br />
+---
 
-<!-- فاصل متدفق أنيميشن -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## ⚡ About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnE1aWttMWwzbDJxeGcxOWI5cTdrZGFwbTRzOXJkMGV2bXllMzJvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvYYffpxm/giphy.gif" width="45%" align="right" style="border-radius:10px; margin-left: 15px;" />
-</p>
-
+## 📌 About Me
 - 🎓 **Computer Science Student** at Minya National University[cite: 1].
 - 🛡️ **Junior SOC Analyst:** Passionate about Defensive Security, Network Packet Analysis (Wireshark), Threat Detection, and Alert Triage[cite: 1].
 - 🧩 **Competitive Programmer:** Solved **2,300+** algorithmic challenges (Codeforces & HackerRank) with custom C++ templates[cite: 1].
 - 🎯 **Community Leader:** Technical Mentor & Problem Setter at **ICPC Minya National University Community**[cite: 1].
-- 🥇 **TryHackMe Top 5%** with 110+ rooms completed and 15 deployment badges[cite: 1].
+- 🥇 **TryHackMe Top 3%** with 142 completed rooms, 23 deployment badges, and rank #64036[cite: 1].
 - 💻 **Environments:** Deep Linux user (Ubuntu Essentials & Kali Linux) & Network Sandbox Builder[cite: 1].
 
-<br clear="both"/>
+---
+
+## 🧠 My Focus Areas
+- 🛡️ **Defensive Security & Threat Analysis**[cite: 1]
+- 🚨 **SOC Alert Triage & Incident Response**[cite: 1]
+- 🔍 **Network Traffic & Packet Inspection (Wireshark)**[cite: 1]
+- 🧩 **Competitive Programming & Algorithmic Optimization**[cite: 1]
+- 🐧 **Linux System Administration & Environment Hardening**[cite: 1]
 
 ---
 
-## 🛠️ Security Arsenal & Tech Stack
+## 📊 GitHub Stats & Trophies
 
 <div align="center">
 
-  ### 🛡️ Defensive & Cyber Tools
   <p>
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/Cisco_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux_Sys-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <a href="https://github.com/engzooz">
+      <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=engzooz&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="engzooz's GitHub Stats" />
+    </a>
+    &nbsp;
+    <img height="175em" src="https://streak-stats.demolab.com/?user=engzooz&theme=radical&hide_border=true&cache_seconds=86400" alt="engzooz's GitHub Streak" />
   </p>
 
-  ### 💻 Languages & Development
   <p>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://trophy.ryglcloud.net/?username=engzooz&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ziad Ayman's GitHub Trophies" />
+  </p>
+
+  <p>
+    <img height="260em" src="https://github-readme-activity-graph.vercel.app/graph?username=engzooz&theme=radical&radius=10" alt="engzooz's Activity Graph" />
   </p>
 
 </div>
 
 ---
 
-## 📈 GitHub Cyber Activity & Trophies
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-  <!-- كؤوس وجوائز GitHub بتصاميم متحركة وشغال 100% -->
-  <img src="https://github-profile-trophy.vercel.app/?username=engzooz&theme=onedark&column=4&margin-w=15&margin-h=15" width="90%" />
+  ### 💻 Programming Languages
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" />
+  </p>
 
-  <br /><br />
+  ### 🛡️ Cyber Security & Operating Systems
+  <p>
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="45" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" />&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" />
+  </p>
 
-  <!-- بطاقة الأيام المتتالية واستمرار النشاط المستقرة جداً -->
-  <img src="https://streak-stats.demolab.com/?user=engzooz&theme=cyberpunk&hide_border=true" width="60%" />
+  ### 🗄️ Database & Tools
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" />&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" />&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="45" />
+  </p>
+
+  <br />
+
+  <p>
+    <a href="https://github.com/engzooz">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=engzooz&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
+## 🔗 Connect with Me
+
 <div align="center">
 
-  <!-- عداد الزوار أنيميشن بستايل neon -->
-  <img src="https://komarev.com/ghpvc/?username=engzooz&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <p>
+    <a href="https://www.linkedin.com/in/engzooz/">
+      <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="45" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:ziad.ayman.shokry@gmail.com">
+      <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="45" />
+    </a>
+  </p>
 
-  <br /><br />
+  <br />
 
-  <!-- أنيميشن ختامي -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7000ff,100:00f0ff&height=60&section=footer&text=ShadowOfUtchiha%20%E2%80%A2%20Defending%20the%20Digital%20Realm&fontSize=18&fontColor=ffffff" width="100%" />
+  <p>
+    <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" width="90%" />
+  </p>
+
+  <br />
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Bottom Line" width="100%" />
 
 </div>
