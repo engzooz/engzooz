@@ -1,32 +1,27 @@
 <div align="center">
 
-  <!-- Header Section: Banner & Dynamic TryHackMe Card Side-by-Side -->
-  <table border="0" style="border: none;">
-    <tr style="border: none;">
-      <td align="center" valign="middle" width="58%" style="border: none;">
-        <img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:000000,100:a371f7&text=Ziad%20Ayman&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cyber%20Security%20%7C%20Junior%20SOC%20Analyst&descSize=20&descColor=FFFFFF&descAlignY=65" width="100%"/>
-      </td>
-      <td align="center" valign="middle" width="42%" style="border: none;">
-        <!-- Dynamic THM Card (Cache-Bypassed) -->
-        <a href="https://tryhackme.com/p/ENGZOOZ" target="_blank">
-          <img src="https://tryhackme-badges.s3.amazonaws.com/ENGZOOZ.png?v=1" alt="TryHackMe ENGZOOZ" width="340" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- Animated Center Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ziad%20Ayman&fontSize=65&fontColor=FFFFFF&animation=swing&fontAlign=50&fontAlignY=42&desc=Cyber%20Security%20%7C%20Junior%20SOC%20Analyst&descSize=22&descColor=FFFFFF&descAlign=50&descAlignY=65" width="100%"/>
 
   <br />
 
-  <!-- Live Badges & Profile Views -->
+  <!-- Dynamic TryHackMe Banner & Profile Views -->
+  <a href="https://tryhackme.com/p/ENGZOOZ" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-ENGZOOZ-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" height="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://komarev.com/ghpvc/?username=engzooz">
+    <img src="https://komarev.com/ghpvc/?username=engzooz&label=Profile%20views&color=00FFFF&style=for-the-badge" height="35" />
+  </a>
+
+  <br /><br />
+
+  <!-- Shields & Statistics Badges -->
   <p>
-    <a href="https://komarev.com/ghpvc/?username=engzooz">
-      <img src="https://komarev.com/ghpvc/?username=engzooz&label=Profile%20views&color=00FFFF&style=flat-square" alt="engzooz's profile views" />
-    </a>
-    &nbsp;&nbsp;
     <a href="https://tryhackme.com/p/ENGZOOZ">
       <img src="https://img.shields.io/badge/TryHackMe-Top%203%25-red?style=flat-square&logo=tryhackme&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rank-%2364036-purple?style=flat-square&logo=tryhackme&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rooms-142-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
+      <img src="https://img.shields.io/badge/Global%20Rank-%2364036-purple?style=flat-square&logo=tryhackme&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rooms%20Completed-142-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
       <img src="https://img.shields.io/badge/Badges-23-00f0ff?style=flat-square&logo=tryhackme&logoColor=black" />
       <img src="https://img.shields.io/badge/Streak-13%20Days-orange?style=flat-square&logo=tryhackme&logoColor=white" />
     </a>
@@ -59,6 +54,7 @@
 
 <div align="center">
 
+  <!-- GitHub Stats & Streak Side-by-Side -->
   <p>
     <a href="https://github.com/engzooz">
       <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=engzooz&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="engzooz's GitHub Stats" />
@@ -67,10 +63,12 @@
     <img height="175em" src="https://streak-stats.demolab.com/?user=engzooz&theme=radical&hide_border=true&cache_seconds=86400" alt="engzooz's GitHub Streak" />
   </p>
 
+  <!-- GitHub Trophies -->
   <p>
     <img src="https://trophy.ryglcloud.net/?username=engzooz&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ziad Ayman's GitHub Trophies" />
   </p>
 
+  <!-- Activity Graph -->
   <p>
     <img height="260em" src="https://github-readme-activity-graph.vercel.app/graph?username=engzooz&theme=radical&radius=10" alt="engzooz's Activity Graph" />
   </p>
@@ -109,7 +107,6 @@
 
   <br />
 
-</div>
 
 ---
 
@@ -129,12 +126,14 @@
 
   <br />
 
+  <!-- Contribution Graph Game -->
   <p>
     <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" width="90%" />
   </p>
 
   <br />
 
+  <!-- Bottom Line Animation -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Bottom Line" width="100%" />
 
 </div>
