@@ -7,7 +7,7 @@
 
   <!-- أنيميشن كتابة التخصصات -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Junior+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Competitive+Programmer+%F0%9F%A7%A9;ShadowOfUtchiha+Persona+%E2%9A%A1;Top+3%25+Global+on+TryHackMe+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Junior+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Competitive+Programmer+%F0%9F%A7%A9;ShadowOfUtchiha+Persona+%E2%9A%A1;Top+5%25+Global+on+TryHackMe+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br /><br />
@@ -75,18 +75,17 @@
 
 ---
 
-## 📈 GitHub Cyber Activity & Metrics
+## 📈 GitHub Cyber Activity & Trophies
 
 <div align="center">
 
-  <!-- إحصائيات بستايل السايبر والراديو -->
-  <img src="https://github-readme-stats.vercel.app/api?username=engzooz&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engzooz&theme=radium&hide_border=true" width="48%" />
+  <!-- كؤوس وجوائز GitHub بتصاميم متحركة وشغال 100% -->
+  <img src="https://github-profile-trophy.vercel.app/?username=engzooz&theme=onedark&column=4&margin-w=15&margin-h=15" width="90%" />
 
   <br /><br />
 
-  <!-- اللغات الأكثر استخداماً -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engzooz&layout=compact&theme=radium&hide_border=true&langs_count=6" width="60%" />
+  <!-- بطاقة الأيام المتتالية واستمرار النشاط المستقرة جداً -->
+  <img src="https://streak-stats.demolab.com/?user=engzooz&theme=cyberpunk&hide_border=true" width="60%" />
 
 </div>
 
