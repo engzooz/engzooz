@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- Animated Center Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ziad%20Ayman&fontSize=65&fontColor=FFFFFF&animation=swing&fontAlign=50&fontAlignY=42&desc=Cyber%20Security%20%7C%20Junior%20SOC%20Analyst&descSize=22&descColor=FFFFFF&descAlign=50&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ziad%20Ayman&fontSize=65&fontColor=FFFFFF&animation=swing&fontAlign=50&fontAlignY=42&desc=SOC%20Analyst%20%7C%20Defensive%20Security%20%7C%20Competitive%20Programmer&descSize=20&descColor=FFFFFF&descAlign=50&descAlignY=65" width="100%"/>
 
   <br />
 
-  <!-- Dynamic TryHackMe Banner & Profile Views -->
   <a href="https://tryhackme.com/p/ENGZOOZ" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-ENGZOOZ-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" height="35" />
   </a>
@@ -16,14 +14,12 @@
 
   <br /><br />
 
-  <!-- Shields & Statistics Badges -->
   <p>
     <a href="https://tryhackme.com/p/ENGZOOZ">
-      <img src="https://img.shields.io/badge/TryHackMe-Top%203%25-red?style=flat-square&logo=tryhackme&logoColor=white" />
-      <img src="https://img.shields.io/badge/Global%20Rank-%2364036-purple?style=flat-square&logo=tryhackme&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rooms%20Completed-142-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
-      <img src="https://img.shields.io/badge/Badges-23-00f0ff?style=flat-square&logo=tryhackme&logoColor=black" />
-      <img src="https://img.shields.io/badge/Streak-13%20Days-orange?style=flat-square&logo=tryhackme&logoColor=white" />
+      <img src="https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=flat-square&logo=tryhackme&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rooms%20Completed-200%2B-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
+      <img src="https://img.shields.io/badge/Badges-30%2B-00f0ff?style=flat-square&logo=tryhackme&logoColor=black" />
+      <img src="https://img.shields.io/badge/Problems%20Solved-2300%2B-orange?style=flat-square&logo=codeforces&logoColor=white" />
     </a>
   </p>
 
@@ -32,21 +28,22 @@
 ---
 
 ## 📌 About Me
-- 🎓 **Computer Science Student** at Minya National University[cite: 1].
-- 🛡️ **Junior SOC Analyst:** Passionate about Defensive Security, Network Packet Analysis (Wireshark), Threat Detection, and Alert Triage[cite: 1].
-- 🧩 **Competitive Programmer:** Solved **2,300+** algorithmic challenges (Codeforces & HackerRank) with custom C++ templates[cite: 1].
-- 🎯 **Community Leader:** Technical Mentor & Problem Setter at **ICPC Minya National University Community**[cite: 1].
-- 🥇 **TryHackMe Top 3%** with 142 completed rooms, 23 deployment badges, and rank #64036[cite: 1].
-- 💻 **Environments:** Deep Linux user (Ubuntu Essentials & Kali Linux) & Network Sandbox Builder[cite: 1].
+- [cite_start]🎓 **Computer Science Student** at Minya National University[cite: 4, 58].
+- [cite_start]🛡️ **SOC Analyst & Defensive Security:** Experienced in SIEM (Splunk), Threat Detection, Deep Packet Inspection (Wireshark), Alert Triage, and Incident Response[cite: 4, 6, 11, 12, 13].
+- [cite_start]⚡ **SOC Simulator Performance:** Completed 5 real-world attack scenarios, resolved 90 alerts with **100% True Positive Rate** and **1-min MTTR**.
+- [cite_start]🧩 **Competitive Programmer:** Solved **2,300+** algorithmic challenges (Codeforces & HackerRank) using optimized C++ templates[cite: 5, 45, 46].
+- [cite_start]🎯 **Community Leader:** Technical Mentor & Problem Setter at **ICPC Minya National University Community**[cite: 18, 20].
+- [cite_start]🏆 **Honors:** ECPC Qualifications Honorable Mention (2025)  | [cite_start]Fortinet NSE 3 Certified.
+- [cite_start]🥇 **TryHackMe Top 1%** globally (200+ rooms & 30+ badges)[cite: 5, 22].
 
 ---
 
 ## 🧠 My Focus Areas
-- 🛡️ **Defensive Security & Threat Analysis**[cite: 1]
-- 🚨 **SOC Alert Triage & Incident Response**[cite: 1]
-- 🔍 **Network Traffic & Packet Inspection (Wireshark)**[cite: 1]
-- 🧩 **Competitive Programming & Algorithmic Optimization**[cite: 1]
-- 🐧 **Linux System Administration & Environment Hardening**[cite: 1]
+- [cite_start]🛡️ **SOC Operations & Incident Response:** SIEM Querying (Splunk SPL), Alert Triage, and Phishing Investigations[cite: 7, 11, 13, 29].
+- [cite_start]🔍 **Network Reconnaissance & Packet Inspection:** Deep Packet Analysis (Wireshark) & Nmap Stealth Scanning[cite: 6, 12, 27, 28].
+- [cite_start]🎯 **Threat Intel & Frameworks:** MITRE ATT&CK Mapping (e.g., T1003 Credential Dumping) & Threat Detection[cite: 13, 26, 42].
+- [cite_start]⚡ **Algorithmic Problem Solving:** Graph Algorithms, Data Structures, and Complexity Optimization[cite: 20, 45, 46, 59].
+- [cite_start]🐧 **Linux Administration:** Ubuntu & Kali Linux environment configuration and security fundamentals[cite: 15, 30, 52].
 
 ---
 
@@ -54,7 +51,6 @@
 
 <div align="center">
 
-  <!-- GitHub Stats & Streak Side-by-Side -->
   <p>
     <a href="https://github.com/engzooz">
       <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=engzooz&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="engzooz's GitHub Stats" />
@@ -63,12 +59,10 @@
     <img height="175em" src="https://streak-stats.demolab.com/?user=engzooz&theme=radical&hide_border=true&cache_seconds=86400" alt="engzooz's GitHub Streak" />
   </p>
 
-  <!-- GitHub Trophies -->
   <p>
     <img src="https://trophy.ryglcloud.net/?username=engzooz&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ziad Ayman's GitHub Trophies" />
   </p>
 
-  <!-- Activity Graph -->
   <p>
     <img height="260em" src="https://github-readme-activity-graph.vercel.app/graph?username=engzooz&theme=radical&radius=10" alt="engzooz's Activity Graph" />
   </p>
@@ -77,36 +71,35 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack & Cyber Tools
 
 <div align="center">
+
+  ### 🛡️ Defensive Security & Network Tools
+  <p>
+    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Wireshark-167EC6?style=for-the-badge&logo=Wireshark&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=target&logoColor=red" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&logo=matrix&logoColor=red" />
+  </p>
 
   ### 💻 Programming Languages
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" />&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" />&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />
   </p>
 
-  ### 🛡️ Cyber Security & Operating Systems
+  ### 🐧 Systems, Databases & Tools
   <p>
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="45" />&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" />&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" />
-  </p>
-
-  ### 🗄️ Database & Tools
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="45" />&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" />&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="45" />
   </p>
 
-  <br />
-
+</div>
 
 ---
 
@@ -126,14 +119,12 @@
 
   <br />
 
-  <!-- Contribution Graph Game -->
   <p>
     <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" width="90%" />
   </p>
 
   <br />
 
-  <!-- Bottom Line Animation -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Bottom Line" width="100%" />
 
 </div>
