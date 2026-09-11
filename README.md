@@ -282,7 +282,6 @@ Relevant Coursework: Network Security · Operating Systems · Data Structures ·
 <p align="center">
 <a href="mailto:ziad.ayman.shokry@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/engzooz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://tryhackme.com/p/ENGZOOZ"><img src="https://img.shields.io/badge/TryHackMe-C10404?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 </p>
 
 <div align="center">
