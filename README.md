@@ -268,12 +268,6 @@ Top 1% on TryHackMe · 200+ rooms · 30+ badges (Advent of Cyber '21–'24, Hack
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=engzooz&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=00d9ff&line=6f42c1&point=ffffff"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=engzooz&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
-
 </div>
 
 ## 🎓 Education
