@@ -255,7 +255,6 @@ Top 1% on TryHackMe · 200+ rooms · 30+ badges (Advent of Cyber '21–'24, Hack
 
 <div align="center">
 
-<!-- 🐍 Snake Animation — يتولد تلقائيًا كل يوم عبر GitHub Actions (بدون أي API خارجي) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engzooz/engzooz/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engzooz/engzooz/output/github-contribution-grid-snake.svg" />
@@ -276,10 +275,6 @@ Top 1% on TryHackMe · 200+ rooms · 30+ badges (Advent of Cyber '21–'24, Hack
 <img src="https://github-profile-trophy.vercel.app/?username=engzooz&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
-
-> ⚠️ **ملاحظة:** خدمات الـStats دي (`github-readme-stats.vercel.app`) هي سيرفر عام مجاني بيستخدمه آلاف المطورين، فأحيانًا بيقع أو بيدي خطأ مؤقت بسبب الضغط (Rate Limit) — ده مش عيب في حسابك. لضمان ثبات الصور 100% في وقت مقابلة أو Interview، اعمل نسخة خاصة بيك مجانًا على Vercel (Fork + Deploy لريبو [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)) واستبدل الرابط.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
 
 ## 🎓 Education
 
