@@ -254,13 +254,30 @@ Top 1% on TryHackMe · 200+ rooms · 30+ badges (Advent of Cyber '21–'24, Hack
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=engzooz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=engzooz&theme=tokyonight&hide_border=true&background=0d1117"/>
+
+<!-- 🐍 Snake Animation — يتولد تلقائيًا كل يوم عبر GitHub Actions (بدون أي API خارجي) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engzooz/engzooz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engzooz/engzooz/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/engzooz/engzooz/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=engzooz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00d9ff&title_color=6f42c1&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=engzooz&theme=tokyonight&hide_border=true&background=0d1117&ring=6f42c1&fire=00d9ff&currStreakLabel=00d9ff"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=engzooz&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=00d9ff&line=6f42c1&point=ffffff"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=engzooz&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
+
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=engzooz&theme=tokyo-night&bg_color=0d1117&hide_border=true"/>
-</div>
+> ⚠️ **ملاحظة:** خدمات الـStats دي (`github-readme-stats.vercel.app`) هي سيرفر عام مجاني بيستخدمه آلاف المطورين، فأحيانًا بيقع أو بيدي خطأ مؤقت بسبب الضغط (Rate Limit) — ده مش عيب في حسابك. لضمان ثبات الصور 100% في وقت مقابلة أو Interview، اعمل نسخة خاصة بيك مجانًا على Vercel (Fork + Deploy لريبو [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)) واستبدل الرابط.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
 
