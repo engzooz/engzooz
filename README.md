@@ -4,7 +4,7 @@
 
 <p>
 <a href="https://tryhackme.com/p/ENGZOOZ"><img src="https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-<a href="https://linkedin.com/in/engzooz"><img src="https://www.linkedin.com/in/engz00z/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/engzooz"><img src="https://www.linkedin.com/in/engz00z-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ziad.ayman.shokry@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/engzooz"><img src="https://img.shields.io/badge/Location-Minya%2C%20Egypt-6f42c1?style=for-the-badge&logo=googlemaps&logoColor=white"/></a>
 </p>
