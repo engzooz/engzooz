@@ -1,61 +1,85 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,40:6f42c1,100:00d9ff&text=ZIAD%20AYMAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Defensive%20Security%20%7C%20SOC%20Analyst%20in%20Training%20%7C%20Blue%20Team&descAlignY=58&descSize=19"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:0d1117,45:6f42c1,100:00d9ff&text=ZIAD%20AYMAN&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SOC%20Analyst%20in%20Training%20%E2%80%A2%20Blue%20Team%20%E2%80%A2%20Detection%20%26%20Response&descAlignY=60&descSize=20"/>
 
-<p>
-<a href="https://tryhackme.com/p/ENGZOOZ"><img src="https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/engzooz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ziad.ayman.shokry@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Location-Minya%2C%20Egypt-6f42c1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1100&color=00D9FF&center=true&vCenter=true&width=800&height=45&lines=90+SOC+Alerts+Closed+%E2%80%A2+100%25+True+Positive+Rate;1-Minute+MTTR+vs+4-Minute+Platform+Average;Top+1%25+Worldwide+on+TryHackMe;Splunk+%E2%80%A2+Wireshark+%E2%80%A2+Nmap+%E2%80%A2+MITRE+ATT%26CK" alt="Typing SVG" />
 
-<p>
-<img src="https://img.shields.io/badge/Open%20to-SOC%20Analyst%20Internships-2ea44f?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Fortinet-NSE%203-EE3124?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Defense%20Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=engzooz&style=for-the-badge&color=6f42c1&label=PROFILE+VIEWS"/>
+<a href="https://tryhackme.com/p/ENGZOOZ"><img src="https://img.shields.io/badge/TryHackMe-Top%201%25-00d9ff?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://www.linkedin.com/in/engzooz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:ziad.ayman.shokry@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<img src="https://img.shields.io/badge/Minya-Egypt-6f42c1?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117"/>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/🟢%20OPEN%20TO-SOC%20ANALYST%20INTERNSHIPS-2ea44f?style=for-the-badge&labelColor=0d1117"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Closed+90+SOC+Alerts+with+100%25+True+Positive+Rate;1-Minute+MTTR+vs+4-Minute+Platform+Average;Analyzing+Logs+in+Splunk+%26+Hunting+Threats;Mapping+Attacks+to+MITRE+ATT%26CK" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=engzooz&style=flat-square&color=6f42c1&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
-
-## 🧑‍💻 About Me
-
-I'm **Ziad Ayman**, a third-year Computer Science student at **Minya National University** (expected graduation 2028), seeking a **SOC Analyst / Cybersecurity internship**. I don't just collect certificates. I build proof: hands-on labs, documented investigations, and real SOC simulations that show *how* I think, not just *what* I studied.
-
-```yaml
-role:            Aspiring SOC Analyst / Blue Team
-focus:           Detection, Triage, Incident Response, Threat Hunting
-ranking:         Top 1% worldwide on TryHackMe
-soc_simulator:   90 alerts closed | 100% true positive | 1-min MTTR
-problem_solving: 2,300+ algorithmic problems solved (Codeforces / HackerRank)
-mentality:       "Document everything. Prove everything. Automate the rest."
-currently:       Microsoft Sentinel, Active Directory Lab, Sysmon & Detection Engineering
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
-
-## 📊 Highlights & Metrics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6f42c1,100:00d9ff&height=3&width=1000"/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:6f42c1,100:00d9ff&text=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20WHOAMI&fontSize=26&fontColor=ffffff&fontAlignY=52"/>
+</div>
 
-| 🏆 TryHackMe | 🚨 SOC Alerts | ⚡ MTTR | ✅ True Positive | 💻 Problems Solved | 🎓 Certifications |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Top 1%** (200+ rooms) | **90** closed | **1 min** (platform avg: 4) | **100%** | **2,300+** | **10+** |
+```bash
+ziad@soc-lab:~$ whoami
+Ziad Ayman | 3rd-year Computer Science @ Minya National University (Class of 2028)
+
+ziad@soc-lab:~$ cat mission.txt
+Detect. Triage. Investigate. Respond. Document everything. Prove everything.
+
+ziad@soc-lab:~$ cat status.txt
+role     : Aspiring SOC Analyst / Blue Team
+looking  : SOC Analyst / Cybersecurity internship
+ranking  : Top 1% worldwide on TryHackMe
+building : Microsoft Sentinel | Active Directory Lab | Sysmon & Detection Engineering
+```
+
+> 💡 I don't just collect certificates. I build proof: hands-on labs, documented investigations, and real SOC simulations that show *how* I think, not just *what* I studied.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6f42c1,100:00d9ff&height=3&width=1000"/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:6f42c1,100:00d9ff&text=%F0%9F%93%8A%20BY%20THE%20NUMBERS&fontSize=26&fontColor=ffffff&fontAlignY=52"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SOC%20ALERTS-90%20CLOSED-00d9ff?style=for-the-badge&labelColor=6f42c1"/>
+<img src="https://img.shields.io/badge/TRUE%20POSITIVE-100%25-00d9ff?style=for-the-badge&labelColor=6f42c1"/>
+<img src="https://img.shields.io/badge/MTTR-1%20MIN-00d9ff?style=for-the-badge&labelColor=6f42c1"/>
+<br/>
+<img src="https://img.shields.io/badge/TRYHACKME-TOP%201%25-00d9ff?style=for-the-badge&labelColor=6f42c1"/>
+<img src="https://img.shields.io/badge/ROOMS-200%2B-00d9ff?style=for-the-badge&labelColor=6f42c1"/>
+<img src="https://img.shields.io/badge/BADGES-30%2B-00d9ff?style=for-the-badge&labelColor=6f42c1"/>
+<br/>
+<img src="https://img.shields.io/badge/PROBLEMS%20SOLVED-2%2C300%2B-00d9ff?style=for-the-badge&labelColor=6f42c1"/>
+<img src="https://img.shields.io/badge/CERTIFICATIONS-10%2B-00d9ff?style=for-the-badge&labelColor=6f42c1"/>
+<img src="https://img.shields.io/badge/BANDIT-34%2F34-00d9ff?style=for-the-badge&labelColor=6f42c1"/>
+
+<sub>MTTR: 1 minute vs. 4-minute TryHackMe platform average</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6f42c1,100:00d9ff&height=3&width=1000"/>
 
-## 🛡️ What I Do
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:6f42c1,100:00d9ff&text=%F0%9F%9B%A1%EF%B8%8F%20HOW%20I%20INVESTIGATE&fontSize=26&fontColor=ffffff&fontAlignY=52"/>
+</div>
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#161b22','primaryTextColor':'#e6edf3','primaryBorderColor':'#6f42c1','lineColor':'#00d9ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    A["🚨 Alert"] --> B["🔍 Triage &<br/>Prioritize"]
+    B --> C["🧪 Investigate<br/>Splunk · Wireshark<br/>VirusTotal · CyberChef"]
+    C --> D["🧭 Map to<br/>MITRE ATT&CK"]
+    D --> E["📝 Report<br/>Timeline · IOCs<br/>Remediation"]
+    style A fill:#6f42c1,color:#fff,stroke:#00d9ff
+    style E fill:#00d9ff,color:#0d1117,stroke:#6f42c1
+```
 
 <table width="100%">
 <tr>
@@ -71,10 +95,10 @@ currently:       Microsoft Sentinel, Active Directory Lab, Sysmon & Detection En
 <td width="33%" valign="top">
 
 ### 🧠 Analyze
-- Splunk SPL queries, dashboards & event correlation
+- Splunk SPL, dashboards & event correlation
 - Deep packet inspection (Wireshark)
-- Nmap: OS fingerprinting, NSE scripts, stealth scans
-- VirusTotal, CyberChef, Windows Event Viewer
+- Nmap: OS fingerprinting, NSE, stealth scans
+- VirusTotal · CyberChef · Event Viewer
 
 </td>
 <td width="33%" valign="top">
@@ -89,81 +113,77 @@ currently:       Microsoft Sentinel, Active Directory Lab, Sysmon & Detection En
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6f42c1,100:00d9ff&height=3&width=1000"/>
 
-## 🧰 Security Toolkit
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:6f42c1,100:00d9ff&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=26&fontColor=ffffff&fontAlignY=52"/>
+</div>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/>
-<img src="https://img.shields.io/badge/CyberChef-1F2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Windows%20Event%20Viewer-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</p>
+### 🎣 Phishing Unfolding: SOC Simulation
 
-**Programming & Scripting**
+Full investigation on the **TryHackMe SOC Simulator**: **35 alerts closed, 100% true positive rate, 9-minute dwell time**.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,cs,sql,js,html,css,git,vscode,linux"/>
-</p>
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#161b22','primaryTextColor':'#e6edf3','primaryBorderColor':'#6f42c1','lineColor':'#00d9ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    P["🎣 Phishing<br/>Email"] --> S["💥 System<br/>Compromise"]
+    S --> T["🔑 T1003<br/>Credential Dumping"]
+    T --> X["📤 Data<br/>Exfiltration"]
+    style P fill:#161b22,stroke:#6f42c1
+    style T fill:#6f42c1,color:#fff,stroke:#00d9ff
+    style X fill:#161b22,stroke:#00d9ff
+```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
+Traced the attack end to end using SIEM logs and delivered a full report: **timeline, IOCs, MITRE ATT&CK mapping, remediation.**
 
-## 🚀 Featured Projects
+`Incident Response` `MITRE ATT&CK` `SIEM` `T1003`
+
+<br/>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🕵️ SOC Simulator: 90 Alert Investigations
-5 full SOC scenarios completed end-to-end on TryHackMe's SOC Simulator.
+### 🕵️ SOC Simulator: 90 Alerts
+5 full SOC scenarios completed end to end.
 
-- **90 alerts** triaged and closed with a **100% true positive rate**
-- **1-minute MTTR** (platform average: 4 minutes)
-- Findings mapped to **MITRE ATT&CK**, with timelines, IOCs and remediation notes
+- **90 alerts** triaged, **100% true positive**
+- **1-minute MTTR** (platform avg: 4 min)
+- Findings mapped to **MITRE ATT&CK**
 
 `Alert Triage` `Threat Detection` `MITRE ATT&CK`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎣 Phishing Unfolding: SOC Simulation
-Full investigation from the initial phishing email to system compromise and data exfiltration, using SIEM logs.
+### 📊 SOC Log Analysis & Recon Lab
+**Splunk** in a virtual Linux environment.
 
-- Closed **35 alerts** with a **100% true positive rate**
-- **9-minute dwell time**
-- Identified **T1003 (Credential Dumping)** as the primary technique
-- Delivered full report: timeline, IOCs, MITRE mapping, remediation
+- Brute-force pattern analysis
+- Custom **dashboards** to triage high-risk events
+- **Nmap** sweeps correlated with firewall **PCAPs** to detect SYN/FIN scanning
 
-`Incident Response` `MITRE ATT&CK` `SIEM`
+`Splunk` `Nmap` `Wireshark` `SIEM`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 SOC Log Analysis & Reconnaissance Lab
-Deployed **Splunk** in a virtual Linux environment to aggregate event logs and analyze brute-force attack patterns.
+### 💻 Competitive Programming Framework
+Modular **C++** templates for graphs, trees and DP, built for contest speed.
 
-- Built custom **dashboards** to triage and prioritize high-risk events
-- Ran targeted **Nmap** sweeps and correlated results with firewall **PCAPs** to detect SYN/FIN port-scanning
+- **2,300+ problems** solved on Codeforces & HackerRank
 
-`Splunk` `Nmap` `Wireshark` `SIEM`
+`C++` `Python` `Algorithms` `Data Structures`
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 Competitive Programming Framework
-Modular **C++** templates for graph algorithms and core data structures, built for speed under contest constraints.
+### 🐧 OverTheWire Bandit: 34/34
+Linux command line, SSH, file system navigation and security fundamentals, all levels completed.
 
-- **2,300+ problems** solved on Codeforces & HackerRank
-- Reusable templates for graphs, trees, DP
-
-`C++` `Python` `Algorithms` `Data Structures`
+`Linux` `SSH` `Bash`
 
 </td>
 </tr>
@@ -171,71 +191,89 @@ Modular **C++** templates for graph algorithms and core data structures, built f
 
 > 👉 Full repositories & writeups: **[github.com/engzooz?tab=repositories](https://github.com/engzooz?tab=repositories)**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
+<details>
+<summary><b>📖 Latest Writeups (click to expand)</b></summary>
+<br/>
 
-## 📖 Latest Writeups
+- 📌 Phishing Unfolding: SOC Investigation
+- 📌 Credential Dumping (T1003) Detection
+- 📌 DNS Tunneling Investigation
+- 📌 HTTP Credential Capture via Wireshark
+- 📌 Nmap Stealth Scan Enumeration
+- 📌 OverTheWire Bandit (All 34 Levels)
+- 📌 Splunk Brute-Force Detection Dashboard
+- 📌 Malicious Artifact Analysis via CyberChef
 
-<p>
-📌 Phishing Unfolding: SOC Investigation&nbsp;&nbsp;|&nbsp;&nbsp;📌 Credential Dumping (T1003) Detection&nbsp;&nbsp;|&nbsp;&nbsp;📌 DNS Tunneling Investigation<br/>
-📌 HTTP Credential Capture via Wireshark&nbsp;&nbsp;|&nbsp;&nbsp;📌 Nmap Stealth Scan Enumeration&nbsp;&nbsp;|&nbsp;&nbsp;📌 OverTheWire Bandit (All 34 Levels)<br/>
-📌 Splunk Brute-Force Detection Dashboard&nbsp;&nbsp;|&nbsp;&nbsp;📌 Malicious Artifact Analysis via CyberChef
-</p>
+</details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6f42c1,100:00d9ff&height=3&width=1000"/>
 
-## 🎓 Practical Experience & Training
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:6f42c1,100:00d9ff&text=%F0%9F%A7%B0%20TOOLKIT&fontSize=26&fontColor=ffffff&fontAlignY=52"/>
 
-**Cybersecurity Hands-on Labs & SOC Simulations** | *TryHackMe, Self-Driven* (2025 – Present)
-Top 1% globally · 200+ rooms · 30+ badges (Advent of Cyber 2022, 2023, 2024 · Hacker Holidays 2026) · OverTheWire Bandit (34/34 levels) · Full phishing investigation lifecycle from email to exfiltration.
+<br/>
 
-**Technical Mentor & Problem Setter** | *ICPC MNU Community* (2024 – Present)
-Mentoring peers in data structures, algorithms and programming paradigms; designing and verifying contest problems with comprehensive edge-case test suites.
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/>
+<img src="https://img.shields.io/badge/CyberChef-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Event%20Viewer-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
+<br/><br/>
 
-## 🎯 Currently Learning
+<img src="https://skillicons.dev/icons?i=cpp,python,cs,sql,js,html,css,git,vscode,linux&perline=10"/>
 
-<p align="center">
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6f42c1,100:00d9ff&height=3&width=1000"/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:6f42c1,100:00d9ff&text=%F0%9F%97%BA%EF%B8%8F%20ROADMAP&fontSize=26&fontColor=ffffff&fontAlignY=52"/>
+</div>
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#161b22','primaryTextColor':'#e6edf3','primaryBorderColor':'#6f42c1','lineColor':'#00d9ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    A["✅ Cisco &<br/>IBM Foundations"] --> B["✅ Fortinet NSE 3<br/>Huawei Net Security"]
+    B --> C["✅ Cisco Defense<br/>Analyst Pathway"]
+    C --> D["✅ TryHackMe Top 1%<br/>SOC Simulator · Splunk"]
+    D --> E["🔄 Microsoft<br/>Sentinel"]
+    E --> F["🔄 Active Directory<br/>Lab"]
+    F --> G["🔄 Sysmon +<br/>Detection Eng."]
+    G --> H["🎯 SOC Analyst /<br/>Threat Hunter"]
+    style A fill:#161b22,stroke:#2ea44f
+    style B fill:#161b22,stroke:#2ea44f
+    style C fill:#161b22,stroke:#2ea44f
+    style D fill:#161b22,stroke:#2ea44f
+    style E fill:#161b22,stroke:#00d9ff
+    style F fill:#161b22,stroke:#00d9ff
+    style G fill:#161b22,stroke:#00d9ff
+    style H fill:#6f42c1,color:#fff,stroke:#00d9ff
+```
+
+<div align="center">
+
+**Currently learning**
+
 <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Active%20Directory-00A4EF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Sysmon-black?style=flat-square"/>
 <img src="https://img.shields.io/badge/Sigma%20Rules-purple?style=flat-square"/>
 <img src="https://img.shields.io/badge/Detection%20Engineering-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Malware%20Analysis-black?style=flat-square"/>
-</p>
 
-## 🗺️ Learning Roadmap
+</div>
 
-```
-✅ Cisco Cybersecurity Foundations
-        ⬇
-✅ IBM Cybersecurity Fundamentals
-        ⬇
-✅ Fortinet NSE 3 + Threat Landscape 3.0
-        ⬇
-✅ Huawei Network Security
-        ⬇
-✅ Cisco Cybersecurity Defense Analyst Pathway
-        ⬇
-✅ TryHackMe: Top 1% (200+ rooms)
-        ⬇
-✅ Splunk SIEM + SOC Simulator (90 alerts)
-        ⬇
-✅ OverTheWire Bandit (34/34)
-        ⬇
-🔄 Microsoft Sentinel
-        ⬇
-🔄 Active Directory Lab
-        ⬇
-🔄 Sysmon + Detection Engineering
-        ⬇
-🎯 SOC Analyst / Threat Hunter
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6f42c1,100:00d9ff&height=3&width=1000"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
-
-## 📜 Certifications
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:6f42c1,100:00d9ff&text=%F0%9F%93%9C%20CERTIFICATIONS&fontSize=26&fontColor=ffffff&fontAlignY=52"/>
+</div>
 
 | Certification | Provider | Date |
 |---|---|---|
@@ -248,32 +286,45 @@ Mentoring peers in data structures, algorithms and programming paradigms; design
 | 🐧 Ubuntu Linux Essentials | ITI | Apr 2026 |
 | 🔐 Cybersecurity Fundamentals *(Credly Verified)* | IBM SkillsBuild | Mar 2026 |
 | 💻 Introduction to Cybersecurity | Cisco Networking Academy | Nov 2025 |
-| 🧩 Problem Solving (Intermediate), C# (Basic) | HackerRank | May 2025 |
-| 🔒 Introduction to Cybersecurity Awareness | HP LIFE | Mar 2025 |
 
-**Additional:** AI Literacy (MCIT & Microsoft, Jun 2026) · Python Programming Basics & Learn HTML/CSS (ITI, Oct 2025)
+<details>
+<summary><b>＋ More certifications</b></summary>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
+- 🔒 Introduction to Cybersecurity Awareness: HP LIFE (Mar 2025)
+- 🧩 Problem Solving (Intermediate), C# (Basic): HackerRank (May 2025)
+- 🤖 AI Literacy: MCIT & Microsoft (Jun 2026)
+- 🐍 Python Programming Basics & Learn HTML/CSS: ITI (Oct 2025)
 
-## 🏅 Competitions & Awards
+</details>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6f42c1,100:00d9ff&height=3&width=1000"/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:6f42c1,100:00d9ff&text=%F0%9F%8F%86%20EXPERIENCE%20%26%20AWARDS&fontSize=26&fontColor=ffffff&fontAlignY=52"/>
+</div>
+
+**🧑‍🏫 Technical Mentor & Problem Setter** | *ICPC MNU Community* | 2024 – Present
+Mentoring peers in data structures, algorithms and programming paradigms; designing and verifying contest problems with comprehensive edge-case test suites.
+
+**🛡️ Cybersecurity Hands-on Labs & SOC Simulations** | *TryHackMe, Self-Driven* | 2025 – Present
+Top 1% globally · 200+ rooms · 30+ badges (Advent of Cyber 2022, 2023, 2024 · Hacker Holidays 2026).
+
+**Awards**
 - 🏆 **Learner Achievement Award**: Cisco Networking Academy Learn-A-Thon 2026 (Mar 2026)
 - 🥉 **Honorable Mention**: ECPC Qualifications, ICPC Egyptian Collegiate Programming Contest (Aug 2025)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
+**🎓 Education:** B.Sc. in Computer Science, Minya National University *(Expected 2028)*
+Network Security · Operating Systems · Data Structures · Algorithms · Discrete Structures
 
-## 🎓 Education & Languages
+**🌍 Languages:** Arabic (Native) · English (Intermediate, B1)
 
-**B.Sc. in Computer Science**, Minya National University *(Expected 2028)*
-Relevant Coursework: Network Security · Operating Systems · Data Structures · Algorithms · Discrete Structures
-
-**Languages:** Arabic (Native) · English (Intermediate, B1)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
-
-## 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6f42c1,100:00d9ff&height=3&width=1000"/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:6f42c1,100:00d9ff&text=%F0%9F%93%88%20GITHUB%20ACTIVITY&fontSize=26&fontColor=ffffff&fontAlignY=52"/>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engzooz/engzooz/output/github-contribution-grid-snake-dark.svg" />
@@ -284,28 +335,36 @@ Relevant Coursework: Network Security · Operating Systems · Data Structures ·
 <br/><br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=engzooz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00d9ff&title_color=6f42c1&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engzooz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6f42c1&text_color=c9d1d9"/>
+
+<br/>
+
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=engzooz&theme=tokyonight&hide_border=true&background=0d1117&ring=6f42c1&fire=00d9ff&currStreakLabel=00d9ff"/>
 
 <br/>
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=engzooz&bg_color=0d1117&color=00d9ff&line=6f42c1&point=ffffff&area=true&area_color=6f42c1&hide_border=true"/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
-
-## 📬 Let's Connect
-
-<p align="center">
-<a href="mailto:ziad.ayman.shokry@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/engzooz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://tryhackme.com/p/ENGZOOZ"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6f42c1,100:00d9ff&height=3&width=1000"/>
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:6f42c1,100:00d9ff&text=%F0%9F%93%AC%20LET%27S%20CONNECT&fontSize=26&fontColor=ffffff&fontAlignY=52"/>
+
+<br/>
+
+### Looking for a SOC Analyst intern who closes alerts fast and documents everything? Let's talk.
+
+<a href="mailto:ziad.ayman.shokry@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/engzooz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://tryhackme.com/p/ENGZOOZ"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+
+<br/>
 
 > *"Security is not about preventing every attack. It's about detecting, understanding, and responding faster than the attacker."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0d1117,100:6f42c1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0d1117,50:6f42c1,100:00d9ff"/>
 
 </div>
