@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Ziad Ayman: SOC Analyst in Training, Blue Team"/>
+<img src="./header.svg" width="100%" alt="Ziad Ayman: SOC Analyst in Training, Blue Team"/>
 
 <br/>
 
