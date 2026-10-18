@@ -1,16 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,50:238636,100:1f6feb&text=Ziad%20Ayman&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=SOC%20Analyst%20in%20Training%20%C2%B7%20Blue%20Team%20%C2%B7%20Detection%20%26%20Response&descAlignY=62&descSize=18"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=700&height=40&lines=Closed+90+SOC+alerts+with+a+100%25+true+positive+rate;1-minute+MTTR+vs.+a+4-minute+platform+average;Top+1%25+worldwide+on+TryHackMe" alt="Typing SVG" />
+<img src="./assets/header.svg" width="100%" alt="Ziad Ayman: SOC Analyst in Training, Blue Team"/>
 
 <br/>
 
-<a href="https://tryhackme.com/p/ENGZOOZ"><img src="https://img.shields.io/badge/TryHackMe-Top%201%25-3fb950?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://www.linkedin.com/in/engzooz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-<a href="mailto:ziad.ayman.shokry@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-3fb950?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://tryhackme.com/p/ENGZOOZ"><img src="https://img.shields.io/badge/TryHackMe-Top%201%25-c11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0a0e14"/></a>
+<a href="https://www.linkedin.com/in/engzooz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-367bf0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e14"/></a>
+<a href="mailto:ziad.ayman.shokry@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00ff41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e14"/></a>
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to-SOC%20Analyst%20Internships-1f6feb?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to-SOC%20Analyst%20Internships-00ff41?style=flat-square&labelColor=0a0e14"/>
 
 </div>
 
@@ -43,21 +41,21 @@ I don't just collect certificates. I build proof: hands-on labs, documented inve
 | | |
 |---|---|
 | **🔵 SIEM & Detection** | Splunk (SPL, dashboards, event correlation) · brute-force and SYN/FIN scan detection · alert triage |
-| **🔵 Network Security** | Nmap (OS fingerprinting, NSE, stealth scans) · Wireshark (HTTP credential capture, DNS tunneling analysis) |
-| **🟢 Investigation** | VirusTotal · CyberChef · Windows Event Viewer · phishing analysis · MITRE ATT&CK mapping · IOC extraction |
+| **🟢 Network Security** | Nmap (OS fingerprinting, NSE, stealth scans) · Wireshark (HTTP credential capture, DNS tunneling analysis) |
+| **🔴 Threat Investigation** | VirusTotal · CyberChef · Windows Event Viewer · phishing analysis · MITRE ATT&CK mapping · IOC extraction |
 | **🟢 Systems & Code** | Linux (Ubuntu, Kali) · Windows · Python · C++ · C# · SQL · HTML/CSS/JS |
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Splunk-1f6feb?style=flat-square&logo=splunk&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Wireshark-1f6feb?style=flat-square&logo=wireshark&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Nmap-1f6feb?style=flat-square&logo=nmap&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/VirusTotal-1f6feb?style=flat-square&logo=virustotal&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/CyberChef-1f6feb?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-1f6feb?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-3fb950?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Ubuntu-3fb950?style=flat-square&logo=ubuntu&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Windows-3fb950?style=flat-square&logo=windows&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Splunk-65a637?style=flat-square&logo=splunk&logoColor=white&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/Wireshark-1679a7?style=flat-square&logo=wireshark&logoColor=white&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/Nmap-367bf0?style=flat-square&logo=nmap&logoColor=white&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/VirusTotal-394eff?style=flat-square&logo=virustotal&logoColor=white&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/CyberChef-367bf0?style=flat-square&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-c8102e?style=flat-square&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-367bf0?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/Windows-0078d4?style=flat-square&logo=windows&logoColor=white&labelColor=0a0e14"/>
 
 <img src="https://skillicons.dev/icons?i=cpp,python,cs,sql,js,html,css,git,vscode,linux&perline=10&theme=dark"/>
 
@@ -192,8 +190,8 @@ Mentoring peers in data structures and algorithms; designing contest problems wi
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=engzooz&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=1f6feb&title_color=3fb950&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engzooz&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=engzooz&show_icons=true&hide_border=true&bg_color=0a0e14&icon_color=367bf0&title_color=00ff41&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engzooz&layout=compact&hide_border=true&bg_color=0a0e14&title_color=00ff41&text_color=c9d1d9"/>
 
 </div>
 
@@ -203,12 +201,10 @@ Mentoring peers in data structures and algorithms; designing contest problems wi
 
 ### 📬 Let's connect
 
-<a href="mailto:ziad.ayman.shokry@gmail.com"><img src="https://img.shields.io/badge/Email-3fb950?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://www.linkedin.com/in/engzooz/"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://tryhackme.com/p/ENGZOOZ"><img src="https://img.shields.io/badge/TryHackMe-3fb950?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:ziad.ayman.shokry@gmail.com"><img src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e14"/></a>
+<a href="https://www.linkedin.com/in/engzooz/"><img src="https://img.shields.io/badge/LinkedIn-367bf0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e14"/></a>
+<a href="https://tryhackme.com/p/ENGZOOZ"><img src="https://img.shields.io/badge/TryHackMe-c11111?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0a0e14"/></a>
 
 <sub><i>"Security is not about preventing every attack. It's about detecting, understanding, and responding faster than the attacker."</i></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1f6feb,50:238636,100:0d1117"/>
 
 </div>
