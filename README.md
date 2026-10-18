@@ -4,16 +4,22 @@
 
 <p>
 <a href="https://tryhackme.com/p/ENGZOOZ"><img src="https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-<a href="[https://www.linkedin.com/in/engz00z/"><img src="https://www.linkedin.com/in/engz00z-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/engzooz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ziad.ayman.shokry@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/engzooz"><img src="https://img.shields.io/badge/Location-Minya%2C%20Egypt-6f42c1?style=for-the-badge&logo=googlemaps&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Location-Minya%2C%20Egypt-6f42c1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Open%20to-SOC%20Analyst%20Internships-2ea44f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fortinet-NSE%203-EE3124?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Defense%20Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=engzooz&style=for-the-badge&color=6f42c1&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Investigating+Security+Alerts+with+100%25+True+Positive+Rate;Analyzing+Logs+in+Splunk+%26+Hunting+Threats;Mapping+Attacks+to+MITRE+ATT%26CK;Turning+Labs+Into+Documented+Real+Investigations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Closed+90+SOC+Alerts+with+100%25+True+Positive+Rate;1-Minute+MTTR+vs+4-Minute+Platform+Average;Analyzing+Logs+in+Splunk+%26+Hunting+Threats;Mapping+Attacks+to+MITRE+ATT%26CK" alt="Typing SVG" />
 
 </div>
 
@@ -23,15 +29,16 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Ziad Ayman**, a Computer Science student at **Minya National University** with an analytical mind and a defensive-security focus. I don't just collect certificates — I build proof: hands-on labs, documented investigations, and real SOC simulations that show *how* I think, not just *what* I studied.
+I'm **Ziad Ayman**, a third-year Computer Science student at **Minya National University** (expected graduation 2028), seeking a **SOC Analyst / Cybersecurity internship**. I don't just collect certificates. I build proof: hands-on labs, documented investigations, and real SOC simulations that show *how* I think, not just *what* I studied.
 
 ```yaml
 role:            Aspiring SOC Analyst / Blue Team
 focus:           Detection, Triage, Incident Response, Threat Hunting
 ranking:         Top 1% worldwide on TryHackMe
+soc_simulator:   90 alerts closed | 100% true positive | 1-min MTTR
 problem_solving: 2,300+ algorithmic problems solved (Codeforces / HackerRank)
 mentality:       "Document everything. Prove everything. Automate the rest."
-currently:       Building Home SOC Lab + Microsoft Sentinel projects
+currently:       Microsoft Sentinel, Active Directory Lab, Sysmon & Detection Engineering
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
@@ -42,7 +49,7 @@ currently:       Building Home SOC Lab + Microsoft Sentinel projects
 
 | 🏆 TryHackMe | 🚨 SOC Alerts | ⚡ MTTR | ✅ True Positive | 💻 Problems Solved | 🎓 Certifications |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **Top 1%** (200+ rooms) | **90+** closed | **1 min** | **100%** | **2,300+** | **8** |
+| **Top 1%** (200+ rooms) | **90** closed | **1 min** (platform avg: 4) | **100%** | **2,300+** | **10+** |
 
 </div>
 
@@ -56,18 +63,18 @@ currently:       Building Home SOC Lab + Microsoft Sentinel projects
 
 ### 🔍 Detect
 - Alert triage & prioritization
-- SYN/FIN scan pattern detection
-- Suspicious DNS analysis
+- Brute-force & SYN/FIN scan detection
+- Suspicious DNS / DNS tunneling analysis
 - HTTP credential exposure detection
 
 </td>
 <td width="33%" valign="top">
 
 ### 🧠 Analyze
-- Splunk SPL log correlation
+- Splunk SPL queries, dashboards & event correlation
 - Deep packet inspection (Wireshark)
-- Malicious artifact decoding (CyberChef)
-- File/URL reputation checks (VirusTotal)
+- Nmap: OS fingerprinting, NSE scripts, stealth scans
+- VirusTotal, CyberChef, Windows Event Viewer
 
 </td>
 <td width="33%" valign="top">
@@ -75,7 +82,7 @@ currently:       Building Home SOC Lab + Microsoft Sentinel projects
 ### 📝 Respond & Report
 - End-to-end phishing investigation
 - MITRE ATT&CK technique mapping
-- Incident timelines & IOC extraction
+- Attack timelines & IOC extraction
 - Remediation recommendations
 
 </td>
@@ -112,24 +119,24 @@ currently:       Building Home SOC Lab + Microsoft Sentinel projects
 <tr>
 <td width="50%" valign="top">
 
-### 📊 SOC Log Analysis & Reconnaissance Sandbox
-Deployed **Splunk** in a virtual Linux environment to aggregate event logs and detect brute-force attack patterns.
+### 🕵️ SOC Simulator: 90 Alert Investigations
+5 full SOC scenarios completed end-to-end on TryHackMe's SOC Simulator.
 
-- Built custom **triage dashboards**, cutting investigation time on high-priority threats
-- Ran targeted **Nmap** sweeps to map host vulnerabilities
-- Correlated scan results with **PCAP** captures to detect SYN/FIN port-scanning
+- **90 alerts** triaged and closed with a **100% true positive rate**
+- **1-minute MTTR** (platform average: 4 minutes)
+- Findings mapped to **MITRE ATT&CK**, with timelines, IOCs and remediation notes
 
-`Splunk` `Nmap` `Wireshark` `SIEM`
+`Alert Triage` `Threat Detection` `MITRE ATT&CK`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎣 Phishing Unfolding — SOC Simulation
-Full investigation of a phishing attack scenario on **TryHackMe SOC Simulator**.
+### 🎣 Phishing Unfolding: SOC Simulation
+Full investigation from the initial phishing email to system compromise and data exfiltration, using SIEM logs.
 
-- Closed **35 alerts** — **100% true positive rate**
-- **1-min MTTR**, 9-min dwell time (vs. 4-min industry average)
-- Identified **T1003 – Credential Dumping** as root technique
+- Closed **35 alerts** with a **100% true positive rate**
+- **9-minute dwell time**
+- Identified **T1003 (Credential Dumping)** as the primary technique
 - Delivered full report: timeline, IOCs, MITRE mapping, remediation
 
 `Incident Response` `MITRE ATT&CK` `SIEM`
@@ -139,14 +146,13 @@ Full investigation of a phishing attack scenario on **TryHackMe SOC Simulator**.
 <tr>
 <td width="50%" valign="top">
 
-### 🕵️ SOC Simulator — 90 Alert Investigations
-5 full SOC scenarios completed end-to-end on TryHackMe's SOC Simulator.
+### 📊 SOC Log Analysis & Reconnaissance Lab
+Deployed **Splunk** in a virtual Linux environment to aggregate event logs and analyze brute-force attack patterns.
 
-- **90 alerts** investigated — **100% true positive rate**
-- **1-minute** average MTTR
-- Multiple techniques mapped to **MITRE ATT&CK**
+- Built custom **dashboards** to triage and prioritize high-risk events
+- Ran targeted **Nmap** sweeps and correlated results with firewall **PCAPs** to detect SYN/FIN port-scanning
 
-`Alert Triage` `Threat Detection` `MITRE ATT&CK`
+`Splunk` `Nmap` `Wireshark` `SIEM`
 
 </td>
 <td width="50%" valign="top">
@@ -170,7 +176,7 @@ Modular **C++** templates for graph algorithms and core data structures, built f
 ## 📖 Latest Writeups
 
 <p>
-📌 Phishing Unfolding — SOC Investigation&nbsp;&nbsp;|&nbsp;&nbsp;📌 Credential Dumping (T1003) Detection&nbsp;&nbsp;|&nbsp;&nbsp;📌 DNS Tunneling Investigation<br/>
+📌 Phishing Unfolding: SOC Investigation&nbsp;&nbsp;|&nbsp;&nbsp;📌 Credential Dumping (T1003) Detection&nbsp;&nbsp;|&nbsp;&nbsp;📌 DNS Tunneling Investigation<br/>
 📌 HTTP Credential Capture via Wireshark&nbsp;&nbsp;|&nbsp;&nbsp;📌 Nmap Stealth Scan Enumeration&nbsp;&nbsp;|&nbsp;&nbsp;📌 OverTheWire Bandit (All 34 Levels)<br/>
 📌 Splunk Brute-Force Detection Dashboard&nbsp;&nbsp;|&nbsp;&nbsp;📌 Malicious Artifact Analysis via CyberChef
 </p>
@@ -179,11 +185,11 @@ Modular **C++** templates for graph algorithms and core data structures, built f
 
 ## 🎓 Practical Experience & Training
 
-**Technical Mentor & Problem Setter** — *ICPC MNU Community* (2024 – Present)
-Mentoring peers in data structures & algorithms; designing contest problems with full edge-case test suites.
+**Cybersecurity Hands-on Labs & SOC Simulations** | *TryHackMe, Self-Driven* (2025 – Present)
+Top 1% globally · 200+ rooms · 30+ badges (Advent of Cyber 2022, 2023, 2024 · Hacker Holidays 2026) · OverTheWire Bandit (34/34 levels) · Full phishing investigation lifecycle from email to exfiltration.
 
-**Cybersecurity Hands-on Labs & Incident Response Simulations** — *Self-Driven Training* (2025 – Present)
-Top 1% on TryHackMe · 200+ rooms · 30+ badges (Advent of Cyber '21–'24, Hacker Holidays 2026) · OverTheWire Bandit (34/34 levels) · Full phishing investigation lifecycle from email to exfiltration.
+**Technical Mentor & Problem Setter** | *ICPC MNU Community* (2024 – Present)
+Mentoring peers in data structures, algorithms and programming paradigms; designing and verifying contest problems with comprehensive edge-case test suites.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
 
@@ -210,7 +216,9 @@ Top 1% on TryHackMe · 200+ rooms · 30+ badges (Advent of Cyber '21–'24, Hack
         ⬇
 ✅ Huawei Network Security
         ⬇
-✅ TryHackMe — Top 1% (200+ rooms)
+✅ Cisco Cybersecurity Defense Analyst Pathway
+        ⬇
+✅ TryHackMe: Top 1% (200+ rooms)
         ⬇
 ✅ Splunk SIEM + SOC Simulator (90 alerts)
         ⬇
@@ -231,23 +239,35 @@ Top 1% on TryHackMe · 200+ rooms · 30+ badges (Advent of Cyber '21–'24, Hack
 
 | Certification | Provider | Date |
 |---|---|---|
-| 🛡️ NSE 3 – Fortinet Certified Associate | Fortinet | Sep 2026 |
+| 🎯 Cybersecurity Defense Analyst Pathway Exam | Cisco Networking Academy | Sep 2026 |
 | 🌐 Network Security | Huawei ICT Academy | Sep 2026 |
-| 🎯 Cybersecurity Foundations (CORE) | Hackviser | Jul 2026 |
-| 🔎 Cyber Threat Intelligence 101 | ARCX | Jun 2026 |
+| 🛡️ NSE 3: Certified in Cybersecurity *(valid until Sep 2028)* | Fortinet | Aug 2026 |
+| 🎯 Certified Cybersecurity Foundations (CORE) | Hackviser | Jul 2026 |
+| 🔎 Foundation Level Threat Intelligence Analyst (CTI 101) | ARCX | Jun 2026 |
 | ☁️ Introduction to the Threat Landscape 3.0 | Fortinet Training Institute | Jun 2026 |
-| 🔐 Cybersecurity Fundamentals *(Credly Verified)* | IBM SkillsBuild | Mar 2026 |
 | 🐧 Ubuntu Linux Essentials | ITI | Apr 2026 |
+| 🔐 Cybersecurity Fundamentals *(Credly Verified)* | IBM SkillsBuild | Mar 2026 |
 | 💻 Introduction to Cybersecurity | Cisco Networking Academy | Nov 2025 |
+| 🧩 Problem Solving (Intermediate), C# (Basic) | HackerRank | May 2025 |
+| 🔒 Introduction to Cybersecurity Awareness | HP LIFE | Mar 2025 |
 
-**Additional:** Problem Solving (Intermediate) – HackerRank · Python Basics – ITI
+**Additional:** AI Literacy (MCIT & Microsoft, Jun 2026) · Python Programming Basics & Learn HTML/CSS (ITI, Oct 2025)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
 
 ## 🏅 Competitions & Awards
 
-- 🥉 **Honorable Mention** — ECPC Qualifications Collegiate Programming Contest (Aug 2025)
-- 🏆 **Learner Award** — Cisco Networking Academy Learn-A-Thon (Mar 2026)
+- 🏆 **Learner Achievement Award**: Cisco Networking Academy Learn-A-Thon 2026 (Mar 2026)
+- 🥉 **Honorable Mention**: ECPC Qualifications, ICPC Egyptian Collegiate Programming Contest (Aug 2025)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
+
+## 🎓 Education & Languages
+
+**B.Sc. in Computer Science**, Minya National University *(Expected 2028)*
+Relevant Coursework: Network Security · Operating Systems · Data Structures · Algorithms · Discrete Structures
+
+**Languages:** Arabic (Native) · English (Intermediate, B1)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
 
@@ -270,18 +290,14 @@ Top 1% on TryHackMe · 200+ rooms · 30+ badges (Advent of Cyber '21–'24, Hack
 
 </div>
 
-## 🎓 Education
-
-**Bachelor of Computer Science** — Minya National University *(In Progress)*
-Relevant Coursework: Network Security · Operating Systems · Data Structures · Algorithms · Discrete Structures
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:00d9ff&height=2&width=1000"/>
 
 ## 📬 Let's Connect
 
 <p align="center">
 <a href="mailto:ziad.ayman.shokry@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/engz00z/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/engzooz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://tryhackme.com/p/ENGZOOZ"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 </p>
 
 <div align="center">
